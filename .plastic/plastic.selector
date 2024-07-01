@@ -1,0 +1,4 @@
+repository "BitirmeProje@erensungun@cloud"
+  path "/"
+    br "/main"
+    co "/main"
